@@ -11,4 +11,9 @@ Levels:
 7--Tetris
 8--Breakout
 9--Bubble Bobble
-10-??
+10-3D Pacman
+11-3D Space Invaders
+12-FPS Platformer
+13-Defender/Zaxxon
+14-Centipede
+15-Mario-esque platformer
