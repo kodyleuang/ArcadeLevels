@@ -2,18 +2,18 @@
 Level Progression game, where each level is is a different arcade or old PC game
 
 Levels:
-1--Pong
-2--Pacman
-3--Pinball
-4--Space Invaders
-5--"Dino Finder"
-6--Medium Minesweeper
-7--Tetris
-8--Breakout
-9--Bubble Bobble
-10-3D Pacman
-11-3D Space Invaders
-12-FPS Platformer
-13-Defender/Zaxxon
-14-Centipede
-15-Mario-esque platformer
+1-- Pong
+2-- Breakout
+3-- Tetris
+4-- Pacman
+5-- Pinball
+6-- Space Invaders
+7-- Bubble Bobble
+8-- Defender/Zaxxon
+9-- Centipede
+10- 2D Platformer
+11- 3D Pacman
+12- 3D Space Invaders
+13- "Dino Finder"
+14- 3D FP Platformer
+15- Hard Minesweeper
